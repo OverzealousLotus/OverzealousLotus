@@ -2,10 +2,18 @@
 [![Zoea of Rust](https://img.shields.io/badge/Zoea%20of-Rust-orange?style=for-the-badge&logo=Rust)](https://shields.io/)
 [![HTML Writer](https://img.shields.io/badge/Writer%20of-HTML-orange?style=for-the-badge&logo=html5)](https://shields.io/)
 
-
 <h1 align="center">Welcome to my profile!</h1>
 &nbsp;&nbsp;&nbsp;&nbsp;Hello! I am OverzealousLotus, a Hobbyist Programmer! I often find myself interested in anything related to computers, with only a few exceptions. My first programming language I truely invested time into is Python. It was the stepping-stone I needed to really get out there. Each time I discovered something new, I always had an excitement build in me. There's something special about watching what you write come to life on the screen in front of you. You could say, Python created who I am today. There will always be a special place in my heart for it, even if it isn't a part of my daily usage... Except for when I want a quick calculator, haha. :ukraine: :georgia: Slava Ukraini!
 
+
+  <h2 align="center">Github Stats</h2>
+<picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=overzealouslotus&show_icons=true&theme=dark"/>
+</picture>
+<picture>
+ <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=overzealouslotus&theme=dracula&layout=compact"/>
+</picture>
+<!--- [![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=overzealouslotus&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
   <h2 align="center">Ongoing Interests</h2>
 <ul>
@@ -25,6 +33,7 @@
 
 
   <h2 align="center">My Repositories</h2>
+  
 - [Blossom-Bloom, my learning notes.](https://github.com/OverzealousLotus/Blossom-Bloom)
 
   <h2>:estonia: :lithuania: :latvia: :poland: :moldova:</h2>
